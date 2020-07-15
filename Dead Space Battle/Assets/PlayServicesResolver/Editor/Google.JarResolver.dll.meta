@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: fe62fd5ca5854d93a0733b38959c2000
+labels:
+- gvh
+- gvh_teditor
+- gvh_v1.2.6.0
+timeCreated: 1481631866
+licenseType: Pro
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
